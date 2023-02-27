@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Michroma&display=swap");
+
+.background-content {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(252, 255, 196);
+  padding: 25% 25%;
+}
+
+.background-watch {
+  height: auto;
+  width: fit-content;
+  font-family: "Michroma";
+  font-size: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(183, 226, 43);
+}
